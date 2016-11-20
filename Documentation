@@ -1,0 +1,27 @@
+Članovi tima i zaduženja:
+
+Jelena Lukić : Front-end 
+Dimitrije Krstić: Back-end 
+Petar Dzunić: Implementacija baze podataka
+
+Kratak opis:
+
+Implementacija softvera za dvodimenzijalno projektovanje logičkih šema. Mogućnost pojedinačnog i timskog rada na šemi.
+
+Funkcionalnost:
+
+-Projekat sadrži naziv projekta, šemu,listu članova i njihovih uloga, listu korišćenih komponenata kao i opis.
+-Vođa tima može da kreira nove projekte i briše stare.
+-Članovi tima imaju mogućnost izmene postojećih projekata.
+-Vođa tima dodeljuje oblasti na kojima rade ostali članovi tima.
+-Mogućnost međusobnog komuniciranja.
+-Vođa iscrtava šemu komponenti.
+-Članovi tima razvijaju komponente po tačno utvrđenom dogovoru.
+-Na raspolaganju su osnovne komponente i logička kola kao i povezivanje istih.
+-Kreiranje naloga i logovanje sa različitim privilegijama koje dodeljuje vođa tima.
+-Aplikacija mora da podrži rotiranje selektovane komponente kao i pomeranje iste kroz šemu.
+
+Tehnologije:
+
+.NET, MySQL
+
